@@ -16,6 +16,8 @@ https://hortonworks.com/blog/modern-telecom-architectures-built-hadoop/
 ##### Dataset
 Artificial dataset:
 https://github.com/mayconbordin/cdr-gen
+https://hortonworks.com/blog/modern-telecom-architectures-built-hadoop/
+http://airisdata.com/call-detail-record-analysis/
 
 ##### Dashboard
 - Geographical heat-map (simulate earthquake) [streaming job][outgoing calls/county][incoming calls/county]
