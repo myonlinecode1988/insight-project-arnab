@@ -1,4 +1,7 @@
 # Project : Analytics [simulate earthquake] Call Data Record (CDR) analysis
+
+Use cellphone data to provide real time analytics for users
+
 ### Architecture
 ![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/cdr_flow.jpg)
 
