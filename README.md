@@ -6,6 +6,9 @@
 "Telcos perform forensics on dropped calls and poor sound quality, but call detail records flow in at a rate of millions per second"- HortonWorks (provides CDR analytics for Verizon)
 https://hortonworks.com/blog/modern-telecom-architectures-built-hadoop/
 
+### How does the data look?
+![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/data_look1.png)
+
 
 ##### Dataset
 Artificial dataset:
