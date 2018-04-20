@@ -1,8 +1,8 @@
 # Project : Call Data Record (CDR) analysis
-rchitecture
+### Architecture
 ![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/cdr_flow.jpg)
 
-##### Why we need streaming ?
+### Why we need streaming ?
 "Telcos perform forensics on dropped calls and poor sound quality, but call detail records flow in at a rate of millions per second"- HortonWorks (provides CDR analytics for Verizon)
 
 ##### Dataset
