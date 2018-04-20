@@ -1,4 +1,4 @@
-# Project : Analytis [simulate earthquake] Call Data Record (CDR) analysis
+# Project : Analytics [simulate earthquake] Call Data Record (CDR) analysis
 ### Architecture
 ![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/cdr_flow.jpg)
 
