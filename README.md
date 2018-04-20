@@ -33,3 +33,6 @@ https://archive.org/download/stackexchange
 - Trends on technology
 - Will your post get answered? [Yes/No classification]
 - Autocomplete post
+
+### How does the data look?
+![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/stack.png)
