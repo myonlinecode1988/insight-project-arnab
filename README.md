@@ -18,6 +18,7 @@ https://github.com/mayconbordin/cdr-gen
 - Geographical heat-map (simulate earthquake) [streaming job][outgoing calls/county][incoming calls/county]
 - Time vs usage [daily batch job]
 - Power user detection [batch job]
+- Detect travellers
 - "RATIONALIZE INFRASTRUCTURE INVESTMENTS"[Where to big new cell phone towers]
 - "RECOMMEND NEXT PRODUCTS TO BUY (NPTB)"[Growth trend products]
 
