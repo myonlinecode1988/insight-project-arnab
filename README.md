@@ -15,11 +15,11 @@ Artificial dataset:
 https://github.com/mayconbordin/cdr-gen
 
 ##### Dashboard
-- Geographical heat-map (simulate earthquake) [streaming job]
+- Geographical heat-map (simulate earthquake) [streaming job][outgoing calls/county][incoming calls/county]
 - Time vs usage [daily batch job]
 - Power user detection [batch job]
-- "RATIONALIZE INFRASTRUCTURE INVESTMENTS"
-- "RECOMMEND NEXT PRODUCTS TO BUY (NPTB)"
+- "RATIONALIZE INFRASTRUCTURE INVESTMENTS"[Where to big new cell phone towers]
+- "RECOMMEND NEXT PRODUCTS TO BUY (NPTB)"[Growth trend products]
 
 # Project : StackOverflow Analytics
 ### Architecture
