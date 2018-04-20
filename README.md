@@ -2,6 +2,14 @@
 
 Use cellphone data to provide real time analytics for business users
 
+### Dashboard
+- Geographical heat-map (simulate earthquake) [streaming job][outgoing calls/county][incoming calls/county]
+- Time vs usage [daily batch job]
+- Power user detection [batch job]
+- Detect travellers
+- "RATIONALIZE INFRASTRUCTURE INVESTMENTS"[Where to big new cell phone towers]
+- "RECOMMEND NEXT PRODUCTS TO BUY (NPTB)"[Growth trend products]
+
 ### Architecture
 ![data type](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/cdr_flow.jpg)
 
@@ -18,14 +26,6 @@ Artificial dataset:
 https://github.com/mayconbordin/cdr-gen
 https://hortonworks.com/blog/modern-telecom-architectures-built-hadoop/
 http://airisdata.com/call-detail-record-analysis/
-
-##### Dashboard
-- Geographical heat-map (simulate earthquake) [streaming job][outgoing calls/county][incoming calls/county]
-- Time vs usage [daily batch job]
-- Power user detection [batch job]
-- Detect travellers
-- "RATIONALIZE INFRASTRUCTURE INVESTMENTS"[Where to big new cell phone towers]
-- "RECOMMEND NEXT PRODUCTS TO BUY (NPTB)"[Growth trend products]
 
 # Project : StackOverflow Analytics
 ### Architecture
