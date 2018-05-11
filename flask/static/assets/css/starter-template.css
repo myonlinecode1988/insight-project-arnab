@@ -1,0 +1,19 @@
+body {
+  padding-top: 50px;
+}
+.key path {
+    display: none;
+}
+
+.key line {
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.key text {
+    font-size: 10px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
