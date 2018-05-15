@@ -29,7 +29,7 @@ showed in a stacked area plot.
 
 
 ### Pipeline
-[![Pipeline](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.jpg)]()
+[![Pipeline#1](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.jpg)]()
 
 
 ### Conclusion and Future Work
