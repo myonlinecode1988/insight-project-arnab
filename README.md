@@ -29,7 +29,8 @@ showed in a stacked area plot.
 
 
 ### Pipeline
-[![Ring Map](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.png)]()
+[![Pipeline](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.jpg)]()
+
 
 ### Conclusion and Future Work
 A full-stack implementation of lambda architecture was performed in a period of three weeks. Although Spark Streaming gives a good performance; I would like the test it against other technologies like Flink. The dashboard should be made more informative showing a z-score based streaming information.
