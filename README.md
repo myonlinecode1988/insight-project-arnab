@@ -9,7 +9,7 @@
 4. [Conclusion and Future Work](README.md#conclusion-and-future-work)
 
 [Slides](http://bit.ly/2rBhiaD)
-[TBD: Video]()
+[Video](https://youtu.be/FUlDEAeGJZ8)
 
 
 ### Introduction
@@ -20,7 +20,7 @@ This is an existing business problem with a lot of data companies providing supp
 for CDR.
 
 ### Project 
-The CDR data is stored in CDR. There are esentially two pipelines one for streaming and one for batch. The Kafka producers injest data at about ~6k records per second , followed by Spark Structured Streaming which reads data from the Kafka source. After necessary transformations it writes data on Kafka source which in turns writes data on Redis.
+The CDR data is stored in S3. There are esentially two pipelines one for streaming and one for batch. The Kafka producers injest data at about ~6k records per second , followed by Spark Structured Streaming which reads data from the Kafka source. After necessary transformations it writes data on Kafka source which in turns writes data on Redis.
 The flask app queries the Redis database every second and passes a json via websockets to the client side app that renders in the front end heat-map of california.
 
 The batch process consists of reading data from S3 and processing is sprark batch job.
@@ -29,7 +29,7 @@ showed in a stacked area plot.
 
 
 ### Pipeline
-[![Ring Map](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.jpg)]()
+[![Ring Map](https://github.com/myonlinecode1988/insight-project-arnab/blob/master/pipeline.png)]()
 
 ### Conclusion and Future Work
 A full-stack implementation of lambda architecture was performed in a period of three weeks. Although Spark Streaming gives a good performance; I would like the test it against other technologies like Flink. The dashboard should be made more informative showing a z-score based streaming information.
